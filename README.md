@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 I am currently studying Computer Science and Computational Linguistics in the International Institute of Information Technology, Hyderabad. 
 
 I like solving fun logical puzzles and learning new things.
-Currently, I am learning Python, C and C++, while also trying to improve my overall coding skills.
-
-I am new to the world of open source development and would to learn more in that regard! Looking forward to working on exciting projects! 
+Currently, I am exploring the domains of Machine Learning and Deep Learning, and also looking more into the prospect of pursuing research in those fields - especially with an emphasis on Computational Linguistics and Natural Language Processing. 
