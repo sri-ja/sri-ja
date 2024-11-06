@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I am Srija Mukhopadhyay.
+### Hi! I'm Srija.
 
-### Glad to see you here!
-
-I am currently studying Computer Science and Computational Linguistics in the International Institute of Information Technology, Hyderabad. 
-
-I like solving fun logical puzzles and learning new things.
-Currently, I am exploring the domains of Machine Learning and Deep Learning, and also looking more into the prospect of pursuing research in those fields - especially with an emphasis on Computational Linguistics and Natural Language Processing. 
+I’m currently pursuing a BTech/MS in Computer Science at IIIT Hyderabad and work as an undergraduate researcher. My current research interests include Multimodal systems and ML interpretability.
