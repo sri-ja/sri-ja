@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi! I'm Srija.
 
-I’m currently pursuing a BTech/MS in Computer Science at IIIT Hyderabad and work as a student researcher. My current research interests include Multimodal systems, ML interpretability and AI safety.
+I’m currently pursuing BTech/MS in Computer Science at IIIT Hyderabad. I am also a student researcher, my current interests broadly are Multimodal Models and Interpretability (and especially Multimodal Interpretability) :D
